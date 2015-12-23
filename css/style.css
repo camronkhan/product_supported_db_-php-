@@ -1,0 +1,25 @@
+/* 
+    Created on : Nov 23, 2015, 4:40:01 PM
+    Author     : Camron Khan
+*/
+
+/** NAVBAR **/
+#msi-logo { display: inline-block; height: 25px; width: auto; }
+#admin-username,
+#admin-password { width: 150px; }
+
+/** FEATURED **/
+.jumbotron { background-image: url(/img/radio-in-truck.jpg); background-size: cover; background-position: center; }
+#featured h1 { padding-top: 20px; color: #fff; }
+#featured p { color: #fff; }
+
+/** SEARCH **/
+#search { margin-bottom: 50px; }
+#search p { color: #000; }
+#search-bar { width: 50%; max-width: 600px; min-width: 300px; }
+td { padding: 5px 10px; }
+.heading { font-weight: bold; }
+.prodID { text-decoration: none; }
+.notes { padding: 0 10px 0 0; }
+.notes ul { margin: 0; padding: 0 0 0 25px; }
+.notes li { margin: 5px 0; }
